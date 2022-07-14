@@ -1,0 +1,23 @@
+.center {
+  padding: 0 1.6rem;
+}
+
+/* 768px */
+@media screen and (min-width: 48rem) {
+
+  .center {
+    margin: 0 auto;
+    padding: 0 3.9rem;
+    width: 76.8rem;
+  }
+
+}
+
+/* 1110px */
+@media screen and (min-width: 69.375rem) {
+
+  .center {
+    width: 111rem;
+  }
+
+}

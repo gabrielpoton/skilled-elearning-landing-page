@@ -1,0 +1,23 @@
+/* 768px */
+@media screen and (min-width: 48rem) {
+
+  .header {
+    background-image: url('../../img/hero-image-tablet.jpg');
+    background-position: right top 5.3rem;
+    background-repeat: no-repeat;
+    min-height: 54.2rem;
+    position: relative;
+  }
+
+}
+
+/* 1110px */
+@media screen and (min-width: 69.375rem) {
+
+  .header {
+    background-image: url('../../img/hero-image-desktop.jpg');
+    background-position: right top;
+    min-height: 72.7rem;
+  }
+
+}

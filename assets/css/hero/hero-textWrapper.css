@@ -1,0 +1,17 @@
+/* 768px */
+@media screen and (min-width: 48rem) {
+
+  .hero__text-wrapper {
+    max-width: 39.8rem;
+  }
+
+}
+
+/* 1110px */
+@media screen and (min-width: 69.375rem) {
+
+  .hero__text-wrapper {
+    max-width: 45.7rem;
+  }
+
+}

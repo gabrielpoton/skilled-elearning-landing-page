@@ -1,0 +1,16 @@
+.numbers__number {
+  color: var(--color-2);
+  font-size: var(--font-size-6);
+  font-weight: 800;
+  line-height: 4rem;
+}
+
+/* 1110px */
+@media screen and (min-width: 69.375rem) {
+
+  .numbers__number {
+    font-size: var(--font-size-7);
+    line-height: 5rem;
+  }
+
+}

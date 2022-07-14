@@ -1,0 +1,39 @@
+.courses__content {
+  display: flex;
+    flex-direction: column;
+    gap: 4rem;
+  padding-bottom: 8rem;
+  padding-top: 6.6rem;
+}
+
+/* 768px */
+@media screen and (min-width: 48rem) {
+
+  .courses__content {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 5.6rem 1.1rem;
+    padding-bottom: 8.6rem;
+    padding-top: 12.3rem;
+  }
+
+  .courses__content > * {
+    width: calc((100% - 1.1rem) / 2);
+  }
+
+}
+
+/* 1110px */
+@media screen and (min-width: 69.375rem) {
+
+  .courses__content {
+    gap: 8rem 3rem;
+    padding-bottom: 14rem;
+    padding-top: 13.3rem;
+  }
+
+  .courses__content > * {
+    width: calc((100% - 6rem) / 3);
+  }
+
+}

@@ -1,0 +1,12 @@
+.header__content {
+  padding-top: 1.6rem;
+}
+
+/* 768px */
+@media screen and (min-width: 48rem) {
+
+  .header__content {
+    padding-top: 2.4rem;
+  }
+
+}

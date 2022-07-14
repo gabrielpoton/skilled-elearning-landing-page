@@ -1,0 +1,15 @@
+.logo {
+  font-size: var(--font-size-5);
+  font-weight: 800;
+  line-height: 3.5rem;
+}
+
+/* 1110px */
+@media screen and (min-width: 69.375rem) {
+
+  .logo {
+    font-size: var(--font-size-10);
+    line-height: 4.5rem;
+  }
+
+}

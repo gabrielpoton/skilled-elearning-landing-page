@@ -1,0 +1,21 @@
+.hero {
+  padding-top: 3.8rem;
+}
+
+/* 768px */
+@media screen and (min-width: 48rem) {
+
+  .hero {
+    padding-top: 10.9rem;
+  }
+
+}
+
+/* 1110px */
+@media screen and (min-width: 69.375rem) {
+
+  .hero {
+    padding-top: 17.2rem;
+  }
+
+}

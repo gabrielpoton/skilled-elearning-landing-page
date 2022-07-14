@@ -1,0 +1,28 @@
+.numbers__card {
+  background-color: var(--color-6);
+  border-radius: 1rem;
+  box-shadow: 0 3.4rem 5.4rem 0 rgba(6, 22, 141, 0.158854);
+  padding: 1.6rem 2rem;
+}
+
+.numbers__card--top{
+  align-self: flex-end;
+}
+
+.numbers__card--bottom{
+  align-self: flex-start;
+  padding-right: 4.5rem;
+}
+
+/* 1110px */
+@media screen and (min-width: 69.375rem) {
+
+  .numbers__card {
+    padding: 2rem 5.7rem 2rem 2.4rem;
+  }
+
+  .numbers__card--bottom{
+    padding-right: 7.2rem;
+  }
+
+}

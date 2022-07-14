@@ -1,0 +1,14 @@
+.numbers__label {
+  font-size: var(--font-size-1);
+  font-weight: 700;
+  line-height: 2.8rem;
+}
+
+/* 1110px */
+@media screen and (min-width: 69.375rem) {
+
+  .numbers__label {
+    font-size: var(--font-size-2);
+  }
+
+}

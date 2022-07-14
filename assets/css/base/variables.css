@@ -1,0 +1,29 @@
+:root {
+  /* Colors */
+  --color-1: #666CA3;
+  --color-2: #13183F;
+  --color-3: #83869A;
+  --color-4: #F74780;
+  --color-5: #FFA7C3;
+  --color-6: #FFFFFF;
+  --gradient-1: linear-gradient(180deg, #FF6F48 0.04%, #F02AA6 100%);
+  --gradient-1-hover: linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%);
+  --gradient-2: linear-gradient(180deg, #4851FF -54.32%, #F02AA6 100%);
+  --gradient-2-hover: linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(180deg, #4851FF -54.32%, #F02AA6 100%);
+  --gradient-4: linear-gradient(180deg, #FFFFFF 0%, #F0F1FF 100%);
+
+  /* Font-Families */
+  --plus-jakarta-sans: 'Plus Jakarta Sans', sans-serif;
+
+  /* Font-Sizes */
+  --font-size-1: 1.4rem;
+  --font-size-2: 1.6rem;
+  --font-size-3: 1.8rem;
+  --font-size-4: 2.4rem;
+  --font-size-5: 2.8rem;
+  --font-size-6: 3.2rem;
+  --font-size-7: 4rem;
+  --font-size-8: 5.6rem;
+  --font-size-9: 2rem;
+  --font-size-10: 3.6rem;
+}

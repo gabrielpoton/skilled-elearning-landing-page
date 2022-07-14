@@ -1,0 +1,13 @@
+.footer__button {
+  background-image: var(--gradient-2);
+}
+
+/* 1110px */
+@media screen and (min-width: 69.375rem) {
+
+  .footer__button:focus,
+  .footer__button:hover {
+    background-image: var(--gradient-2-hover);
+  }
+
+}

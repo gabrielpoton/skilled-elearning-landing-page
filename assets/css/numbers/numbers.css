@@ -1,0 +1,39 @@
+.numbers {
+  background-image: url('../../img/hero-image-mobile.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  margin: 4.6rem auto 0;
+  max-width: 32.7rem;
+  min-height: 30.1rem;
+}
+
+/* 768px */
+@media screen and (min-width: 48rem) {
+
+  .numbers {
+    background-image: unset;
+    margin: 0;
+    max-width: none;
+    min-height: 43.4rem;
+    position: absolute;
+      right: 3rem;
+      top: 10.8rem;
+    width: 31.3rem;
+  }
+
+}
+
+/* 1110px */
+@media screen and (min-width: 69.375rem) {
+
+  .numbers {
+    min-height: 35.9rem;
+    right: 10.1rem;
+    top: 27rem;
+    width: 55.5rem;
+  }
+
+}

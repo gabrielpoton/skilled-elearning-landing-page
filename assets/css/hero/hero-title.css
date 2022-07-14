@@ -1,0 +1,16 @@
+.hero__title {
+  color: var(--color-2);
+  font-size: var(--font-size-7);
+  font-weight: 800;
+  line-height: 5rem;
+}
+
+/* 1110px */
+@media screen and (min-width: 69.375rem) {
+
+  .hero__title {
+    font-size: var(--font-size-8);
+    line-height: 7.1rem;
+  }
+
+}

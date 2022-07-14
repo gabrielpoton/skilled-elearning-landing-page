@@ -1,0 +1,20 @@
+.hero__button {
+  background-image: var(--gradient-1);
+  border-radius: 3.2rem;
+  line-height: inherit;
+  padding: 1.5rem 3.8rem;
+}
+
+/* 1110px */
+@media screen and (min-width: 69.375rem) {
+
+  .hero__button {
+    padding: 1.7rem 3.2rem;
+  }
+
+  .hero__button:focus,
+  .hero__button:hover {
+    background-image: var(--gradient-1-hover);
+  }
+
+}

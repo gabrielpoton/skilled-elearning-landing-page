@@ -1,0 +1,12 @@
+.hero__text {
+  margin: 2.6rem 0 2.4rem;
+}
+
+/* 1110px */
+@media screen and (min-width: 69.375rem) {
+
+  .hero__text {
+    margin: 2.9rem 0 4rem;
+  }
+
+}

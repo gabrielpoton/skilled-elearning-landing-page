@@ -1,0 +1,30 @@
+.courses__icon {
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 50%;
+  height: 5.6rem;
+  position: absolute;
+    top: 0;
+  transform: translateY(-50%);
+  width: 5.6rem;
+}
+
+.courses__icon--animation {
+  background-image: url('../../img/animation-icon.svg'), var(--gradient-1);
+}
+
+.courses__icon--design {
+  background-image: url('../../img/design-icon.svg'), var(--gradient-1);
+}
+
+.courses__icon--photography {
+  background-image: url('../../img/photography-icon.svg'), var(--gradient-1);
+}
+
+.courses__icon--crypto {
+  background-image: url('../../img/crypto-icon.svg'), var(--gradient-1);
+}
+
+.courses__icon--business {
+  background-image: url('../../img/business-icon.svg'), var(--gradient-1);
+}
