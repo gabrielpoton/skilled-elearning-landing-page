@@ -20,7 +20,7 @@ Users should be able to:
           
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/skilled-elearning-landing-page-j1r8sS_7A5](https://www.frontendmentor.io/solutions/skilled-elearning-landing-page-j1r8sS_7A5)
 - Live Site URL: [https://gabrielpoton.github.io/skilled-elearning-landing-page](https://gabrielpoton.github.io/skilled-elearning-landing-page)
 
 ## Comments
